@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-27 15:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: novalab.php:28
+msgid "Header Left Widgets"
+msgstr ""
+
+#: novalab.php:34
+msgid "Header Right Widgets"
+msgstr ""
+
+#: novalab.php:40
+msgid "Header Menu Widgets"
+msgstr ""
+
+#: novalab.php:46
+msgid "Header Logo Widgets"
+msgstr ""
+
+#: novalab.php:52
+msgid "Footer Widgets"
+msgstr ""
+
+#: novalab.php:69
+msgid "Portfolio"
+msgstr ""
+
+#: novalab.php:70
+msgid "Portfolio Item"
+msgstr ""
+
+#: novalab.php:79
+msgid "Portfolio Categories"
+msgstr ""
+
+#: novalab.php:109
+msgid "BB Button"
+msgstr ""
+
+#: novalab.php:111
+msgid "Button with icon, text and link."
+msgstr ""
+
+#: novalab.php:241
+msgid "Icon:"
+msgstr ""
+
+#: novalab.php:251
+msgid "Filter..."
+msgstr ""
+
+#: novalab.php:271
+msgid "Text:"
+msgstr ""
+
+#: novalab.php:275
+msgid "Style:"
+msgstr ""
+
+#: novalab.php:291
+msgid "Font weight:"
+msgstr ""
+
+#: novalab.php:307
+msgid "Color scheme:"
+msgstr ""
+
+#: novalab.php:323
+msgid "URL or slug:"
+msgstr ""
+
+#: novalab.php:327
+msgid "Target:"
+msgstr ""
+
+#: novalab.php:343
+msgid "CSS extra class:"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:22
+msgid "Custom JS"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:48 framework_bt_plugin/framework.php:171
+#: framework_bt_plugin/framework.php:294 framework_bt_plugin/framework.php:423
+msgid "Share on Facebook"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:72 framework_bt_plugin/framework.php:195
+#: framework_bt_plugin/framework.php:318 framework_bt_plugin/framework.php:438
+msgid "Share on Twitter"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:97 framework_bt_plugin/framework.php:220
+#: framework_bt_plugin/framework.php:342
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:121 framework_bt_plugin/framework.php:244
+#: framework_bt_plugin/framework.php:366 framework_bt_plugin/framework.php:469
+msgid "Share on VK"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:145 framework_bt_plugin/framework.php:268
+#: framework_bt_plugin/framework.php:390 framework_bt_plugin/framework.php:485
+msgid "Share on WhatsApp"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:453
+msgid "Share on Linkedin"
+msgstr ""
